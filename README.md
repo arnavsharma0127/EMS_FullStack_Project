@@ -43,10 +43,9 @@ and then you can open http://localhost:5173 to view it in the browser.
 | npm run eject | This command will remove the single build dependency from your project. |
 
 <i>Contact Me</i></h3>   
-<br/>
-<h2 align="center">   
+<br/> 
 <a href="https://www.linkedin.com/in/arnav-sharma0127/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 &nbsp;&nbsp;
 <a href="mailto:arnavsharma0127@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-</h2>
+
