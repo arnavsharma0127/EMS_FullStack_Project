@@ -8,4 +8,4 @@ The first two folders you see (Front-end and Server) these are the older version
 
 ## Screenshots <br>
 ### 1 Selection Page (Employee OR Admin)
-![screenshot](screenshots/1.PNG)
+![screenshot](screenshots/1.png)
