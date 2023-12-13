@@ -7,5 +7,5 @@ The first two folders you see (Front-end and Server) these are the older version
 
 
 ## Screenshots <br>
-### 1 Selection Page (Employee OR Admin)
+### 1. Selection Page (Employee OR Admin)
 ![screenshot](1.png)
