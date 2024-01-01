@@ -12,7 +12,7 @@ router.post("/employee_login", (req, res) => {
       if (result.length > 0) {
         bcrypt.compare(req.body.password, result[0].password, (err, response) => {
             if (err) return res.json({ loginStatus: false, Error: "Wrong Password" });
-            if(response) {
+            if(response) {   
                 const email = result[0].email;
                 const token = jwt.sign(
                     { role: "employee", email: email, id: result[0].id },
