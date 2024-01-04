@@ -7,7 +7,7 @@ const con = mysql.createConnection({
     database: "employeems"
 })
 
-con.connect(function(err) {
+con.connect(function(err) {   
     if(err) {
         console.log("connection error")
     } else {
