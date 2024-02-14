@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 import bcrypt from 'bcrypt'
 
 const router = express.Router()
-
+    
 router.post("/employee_login", (req, res) => {
     const sql = "SELECT * from employee Where email = ?";  
     con.query(sql, [req.body.email], (err, result) => {
