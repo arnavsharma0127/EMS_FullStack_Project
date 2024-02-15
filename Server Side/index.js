@@ -2,7 +2,7 @@ import express from "express";
 import cors from 'cors'
 import { adminRouter } from "./Routes/AdminRoute.js";
 import { EmployeeRouter } from "./Routes/EmployeeRoute.js";
-import Jwt from "jsonwebtoken";   
+import Jwt from "jsonwebtoken";     
 import cookieParser from "cookie-parser";
 
 const app = express() 
