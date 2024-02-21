@@ -6,7 +6,7 @@ Develop a comprehensive web application using ReactJS and NodeJS that allows use
 
 -------------
 
-This web application contains two account access:
+This web application contains two account access:  
 - Admin
 - Employee
 
